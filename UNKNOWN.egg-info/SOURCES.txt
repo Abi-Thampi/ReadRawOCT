@@ -1,8 +1,0 @@
-README.txt
-setup.py
-ReadRawOCT/OCT_FRG_TDMS.py
-ReadRawOCT/__init__.py
-UNKNOWN.egg-info/PKG-INFO
-UNKNOWN.egg-info/SOURCES.txt
-UNKNOWN.egg-info/dependency_links.txt
-UNKNOWN.egg-info/top_level.txt
