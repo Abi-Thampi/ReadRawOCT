@@ -1,0 +1,3 @@
+build/*
+dist/*
+ReadRawOCT.egg-info/*

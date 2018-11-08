@@ -9,8 +9,6 @@ import os as os
 import glob as glob
 import struct
 
-
-
 ### Example of use:
 
 ### Read the raw data and convert to C_Scan matrix using the read_tdms function. The number of B_scans and A_scans are required to shape the C_scan:
@@ -36,8 +34,6 @@ import struct
 
 ## to save a B_Scan:
 #pytdms.Save_Image('Raw_C-Scan/G0_S1_XY_Int.tiff', Int[50])
-
-
 
 def read_tdms(filename, A_scan_num, B_scan_num):
 
