@@ -1,6 +1,10 @@
 # ReadRawOCT
 
-This code reads raw .TDMS and .FRG files OCT fringe data into .npy. 
+This code reads raw .TDMS and .FRG files OCT fringe data into .npy. Run the setup.py script to install the module:
+
+```
+python setup.py install 
+```
 
 ## Dependancies
 You will need to install the nptdms module for this code to work properly. You can do this using conda:
